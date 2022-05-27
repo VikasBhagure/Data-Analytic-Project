@@ -35,7 +35,5 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Telco4](https://user-images.githubusercontent.com/61597669/170661186-25ea7a30-b9a1-48b0-858d-645032cb118f.jpg)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Telco4](https://user-images.githubusercontent.com/61597669/170661197-fee421c7-cc97-43aa-966f-3ebf12d910c8.jpg)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 7.Conclusion
 ### It is more costly to acquire new customers than to retain existing ones. For this reason, large telecommunications corporations are seeking to develop models to predict which customers are more likely to change and take actions accordingly. I build a model to predict how likely a customer will churn by analyzing its characteristics: (1) demographic information, (2) account information, and (3) services information. The objective is to obtain a data-driven solution that will allow us to reduce churn rates and, as a consequence, to increase customer satisfaction and corporation revenue.
