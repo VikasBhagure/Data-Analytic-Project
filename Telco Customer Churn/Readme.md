@@ -11,6 +11,7 @@
 ### Exploratory Data Analysis
 ### Data Cleaning
 ### Data Visualization
+### Dashboard using Tableau
 ### Feature Engineering
 ### Assessing algorithms
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
